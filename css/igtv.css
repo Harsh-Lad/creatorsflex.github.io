@@ -1,0 +1,87 @@
+body{
+    overflow-x: hidden;
+}
+p {
+    margin-bottom: 0 !important;
+}
+
+.logo {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.r a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: #FFB404;
+}
+
+.logo span {
+    color: #FFB404;
+}
+
+.c .btn{
+    background-color: #FFB404;
+}
+.c input{
+    /* width: ; */
+    border:#FFB404 solid 2px;
+}
+.nam input{
+    border: #FFB404 2px solid;
+    border-radius: 10px;
+    height: 100px;
+}
+.na input{
+    border: #FFB404 2px solid;
+    border-radius: 10px;
+}
+.btn p{
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 25px 0px #0000001A;
+}
+.in label{
+    height: 546px;
+width: 359px;
+border-radius: 20px;
+    box-shadow: 5px 5px 25px 0px #0000001A;
+}
+.pp .p{
+    font-size: 100px;
+    color:#FFB404;
+}
+.b .nam{
+    font-size: 15px;
+    position: relative;
+    top: 50%;
+}
+.b .na{
+    font-size: 15px;
+    position: relative;
+    top: 50%;
+}
+.pp{
+    position: relative;
+    top: 50%;
+    transform: translateY(-80%);
+}
+.bb{
+    position: relative;
+    top: 50%;
+}
+.c .cc{
+    font-size: 17px;
+    position: relative;
+    top: 50%;
+}
+.c .s{
+    font-size: 17px;
+    position: relative;
+    top: 53%;
+}

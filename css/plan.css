@@ -1,0 +1,29 @@
+body{
+    overflow-x: hidden;
+}
+p {
+    margin-bottom: 0 !important;
+}
+
+.logo {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.r a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: #FFB404;
+}
+
+.logo span {
+    color: #FFB404;
+}
+.wh img{
+    width: 100vw;
+}
